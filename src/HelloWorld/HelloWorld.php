@@ -1,5 +1,5 @@
 <?php
-namespace HelloWorld;
+namespace CAPEngineer\HelloWorldComposer\HelloWorld;
 
 class HelloWorld
 {
