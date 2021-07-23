@@ -1,0 +1,13 @@
+{
+    "name": "c-a-p-engineer/hello-world-composer",
+    "description": "Hello,World",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CAPEngineer\\HelloWorldComposer\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
